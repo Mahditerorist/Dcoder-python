@@ -44,6 +44,6 @@ python2 xtools.py
 
 
 ## Tools Overview
-|    MAHDI    |    TERORIST   |
+|    MAHDI  TERORIST   |
 | ------------- | ------------ |
 |![f](https://f.top4top.io/p_2056weaad0.png)
