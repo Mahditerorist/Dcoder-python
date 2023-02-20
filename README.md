@@ -33,6 +33,6 @@ python2 xtools.py
 
 
 ## Tools Overview
-|    Encrypt    |    Decyrpt   |
+|    MAHDI    |    Decyrpt   |
 | ------------- | ------------ |
 |![Index](https://g.top4top.io/p_2056hbzvh1.png)|![f](https://f.top4top.io/p_2056weaad0.png)
