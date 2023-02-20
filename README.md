@@ -39,7 +39,7 @@ git clone https://github.com/Mahditerorist/Dcoder-python
 
 ## How to use
 ```bash
-python2 xtools.py
+python2 Terorist.py
 ```
 
 
