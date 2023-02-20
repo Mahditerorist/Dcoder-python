@@ -24,7 +24,17 @@
 ## Installations
 ```bash
 apt update && apt upgrade
+
+pkg install python
+
+pkg install python2
+
+pkg install python3
+
 apt install python python2
+
+git clone https://github.com/Mahditerorist/Dcoder-python
+
 ```
 
 ## How to use
