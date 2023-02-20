@@ -19,6 +19,7 @@
 - Uncompyle6 pyc > py
 - Decrypt Marshal,Zlib,Base64
 - Decrypt Zlib
+RUBIKA : @py_source 
 
 ## Installations
 ```bash
@@ -33,6 +34,6 @@ python2 xtools.py
 
 
 ## Tools Overview
-|    MAHDI    |    Decyrpt   |
+|    MAHDI    |    TERORIST   |
 | ------------- | ------------ |
 |![Index](https://g.top4top.io/p_2056hbzvh1.png)|![f](https://f.top4top.io/p_2056weaad0.png)
