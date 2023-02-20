@@ -19,7 +19,7 @@
 - Uncompyle6 pyc > py
 - Decrypt Marshal,Zlib,Base64
 - Decrypt Zlib
-RUBIKA : @py_source 
+- RUBIKA : @py_source 
 
 ## Installations
 ```bash
