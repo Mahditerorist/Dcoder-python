@@ -110,8 +110,8 @@ def b_menu():
 def menu():
     clr()
     b_menu()
-    running('\n{}[{}1{}]{} MAHDI\n{}[{}2{}]{} Decrypt\n'.format(m,p,m,p,m,p,m,p,m,p,m,p,m,p,m,p,m,p,m,p))
-    asww = raw_input('{}[{}?{}]{} RUBIKA : @py_source \n Choose {}>> {}'.format(m,p,m,p,k,p))
+    running('\n{}[{}1{}]{} MAHDI\n{}[{}2{}]{} TERORIST \n'.format(m,p,m,p,m,p,m,p,m,p,m,p,m,p,m,p,m,p,m,p))
+    asww = raw_input('{}[{}*{}]{} RUBIKA : @py_source \n Choose {}>> {}'.format(m,p,m,p,k,p))
     if asww == '1' or asww == '01':
 	load('Running...')
 	menu_enc()
