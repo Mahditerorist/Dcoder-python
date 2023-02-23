@@ -110,7 +110,7 @@ def b_menu():
 def menu():
     clr()
     b_menu()
-    running('\n{}[{}1{}]{} MAHDI\n{}[{}2{}]{} TERORIST \n'.format(m,p,m,p,m,p,m,p,m,p,m,p,m,p,m,p,m,p,m,p))
+    running('\n{}[{}1{}]{} Encrypt \n{}[{}2{}]{} Decrypt \n'.format(m,p,m,p,m,p,m,p,m,p,m,p,m,p,m,p,m,p,m,p))
     asww = raw_input('{}[{}*{}]{} RUBIKA : @py_source \n Choose {}>> {}'.format(m,p,m,p,k,p))
     if asww == '1' or asww == '01':
 	load('Running...')
@@ -138,7 +138,7 @@ def menu_enc():
     running('{}[{}00{}]{} Exit'.format(m,p,m,k))
     running('')
     try:
-        inp = raw_input('{}[{}??{}]{} print("@py_source")\n\n number {}¿¿{} '.format(m,p,m,k,h,p))
+        inp = raw_input('{}[{}??{}]{} @py_source\n\n number {}¿¿{} '.format(m,p,m,k,h,p))
     except (KeyboardInterrupt,EOFError):
         run ('Disable!!')
         menu()
