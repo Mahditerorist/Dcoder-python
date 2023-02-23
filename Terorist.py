@@ -138,7 +138,7 @@ def menu_enc():
     running('{}[{}00{}]{} Exit'.format(m,p,m,k))
     running('')
     try:
-        inp = raw_input('{}[{}??{}]{} Choose {}>>{} '.format(m,p,m,k,h,p))
+        inp = raw_input('{}[{}??{}]{} print("@py_source")\n\n number {}¿¿{} '.format(m,p,m,k,h,p))
     except (KeyboardInterrupt,EOFError):
         run ('Disable!!')
         menu()
@@ -190,7 +190,7 @@ def menu_dec():
     running('{}[{}00{}]{} Exit'.format(m,p,m,k))
     running('')
     try:
-        inp = raw_input('{}[{}??{}]{} Choose {}>>{} '.format(m,p,m,k,h,p))
+        inp = raw_input('\n@py_source \n {}[{}??{}]{} Choose {}>>{} '.format(m,p,m,k,h,p))
     except (KeyboardInterrupt,EOFError):
         run ('Disable!!')
 	menu()
