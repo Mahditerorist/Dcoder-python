@@ -657,10 +657,3 @@ def zl():
 def exit():
         run('thanks for using my tools dude :)')
         sys.exit()
-
-if __name__ == '__main__':
-    if os.path.exists('unpyc'):
-        menu()
-    else:
-        os.system('mkdir unpyc')
-        menu()
